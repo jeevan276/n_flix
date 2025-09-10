@@ -85,7 +85,7 @@ body {
 }
 .search_bar > input {
   height: 56px;
-  max-width: 100%;
+  width: 100%;
   background: #000;
   color: #fff;
   opacity: 75%;
@@ -98,7 +98,7 @@ body {
 
 .button_tab {
   height: 56px;
-  max-width: 75%;
+  width: 75%;
   background-color: #e50914;
   border-radius: 5px;
   color: #fff;
