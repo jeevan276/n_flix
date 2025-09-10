@@ -76,6 +76,9 @@ body {
   align-items:center;
   gap: 5px;
 }
+.tsc_2>p{
+  text-align:center;
+}
 .search_bar {
   display: flex;
   gap: 5%;
